@@ -96,7 +96,6 @@ public class MyFrame extends JFrame implements ActionListener {
                 System.out.println("File does not exists");
                 return false;
             }
-//            System.out.println("Done");
         } catch (Exception ex) {
             ex.printStackTrace();
         }
